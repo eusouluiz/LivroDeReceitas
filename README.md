@@ -12,6 +12,7 @@ O programa tem como finalidade funcionar como um livro de receitas digital execu
 Ao ser iniciado o programa exibe a janela inicial, conforme a figura 1, com as opções de abrir o livro ou terminar a execução, fechando o programa.
 
 Figura 1:
+
 ![image](https://user-images.githubusercontent.com/20136081/182543957-d99f797e-60b8-43b8-bede-50d489a8210b.png)
 
 Ao ser aberto o livro um novo menu é exibido, contendo as receitas salvas durante o último uso, conforme a figura 2. Caso não hajam receitas salvas uma mensagem de ausência é exibida, de acordo com a figura 3.
@@ -20,17 +21,23 @@ Ao pressionar a tecla ‘A’ uma nova página é inserida ao livro, requisitand
 Ao pressionar a tecla ‘X’ a receita presente na tela é excluída.
 
 Figura 2:
+
 ![image](https://user-images.githubusercontent.com/20136081/182544065-2d30a6ba-a074-4a75-889d-959ab2a1d56d.png)
 
+
 Figura 3:
+
 ![image](https://user-images.githubusercontent.com/20136081/182544075-81fa8486-9cde-457f-8fd2-a0ad277e1408.png)
 
+
 Tabela 1:
+
 ![image](https://user-images.githubusercontent.com/20136081/182544199-7a5115ca-6d04-4224-a2ea-5201e1897439.png)
 
 Ao pressionar a tecla ‘C’ um menu para seleção de informação a ser alterada é exibido, de acordo com a figura 4. A opção desejada deve ser selecionada com o uso das setas do teclado para mover a seta visível no terminal. Para confirmar a escolha a tecla Enter deve ser pressionada. Em seguida, a nova informação deve ser fornecida.
 
 Figura 4:
+
 ![image](https://user-images.githubusercontent.com/20136081/182544256-307d4361-7811-4ca1-ae34-27899f2b7078.png)
 
 Para marcar a utilização de uma receita a tecla Enter deve ser pressionada. Ao ser executada esta ação uma utilização será adicionada à receita, e a nota para ela será requisitada, sendo esta limitada de 0 a 10 unidades de avaliação.
