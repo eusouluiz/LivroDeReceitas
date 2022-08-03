@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1592391339 source:c:\users\luizg\documents\codeblocks\projetoreceitas\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	"recipelib.h"
+	"interfacelib.h"
+
+1592389893 c:\users\luizg\documents\codeblocks\projetoreceitas\recipelib.h
+
+1592391647 c:\users\luizg\documents\codeblocks\projetoreceitas\interfacelib.h
+	"recipelib.h"
+
